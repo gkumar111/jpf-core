@@ -144,6 +144,7 @@ public final class Class<T> implements Serializable, GenericDeclaration, Type, A
     }
 
   }
+  
 
   //--- enum support ()
   // Java 1.5
