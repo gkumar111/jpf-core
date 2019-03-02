@@ -73,6 +73,7 @@ public final class Class<T> implements Serializable, GenericDeclaration, Type, A
   private boolean isPrimitive;
   
   private Class() {}
+  
 
   public native boolean isArray ();
 
